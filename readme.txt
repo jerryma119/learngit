@@ -9,3 +9,4 @@ add 4
 add 5
 modify in branch dev
 creating a new branch is quick and simple.
+new branch named dev
