@@ -8,8 +8,4 @@ add 3
 add 4
 add 5
 modify in branch dev
-<<<<<<< HEAD
 creating a new branch is quick and simple.
-=======
-creating a new branch is quick and simple.
->>>>>>> feature1
